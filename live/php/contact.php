@@ -3,7 +3,7 @@ $name = $_POST['name'];
 $email = $_POST['email'];
 $message = $_POST['message'];
 
-$to = 'manuparrado@hotmail.fr';
+$to = 'info@parradoconsulting.be';
 $subject = "Nouveau courrier reçu de $name";
 $body = "From: $name\nEmail: $email\n\n$message";
 
